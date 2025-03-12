@@ -196,14 +196,3 @@ add_action('wp_enqueue_scripts', 'custom_theme_assets');
 ```
 
 ---
-
-## ✅ Summary
-
-- ✅ Install WordPress and create content.
-- ✅ Use REST API with React.
-- ✅ Build a custom theme.
-- ✅ Extend WordPress via a plugin.
-
----
-
-> **Tip**: See [Hostinger Tutorial](https://www.hostinger.com/tutorials/how-to-create-wordpress-plugin) for more plugin ideas.
